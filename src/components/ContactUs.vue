@@ -1,8 +1,8 @@
 <template>
     <div>
-        <h1 class="text-xl font-medium mb-10">Contact Us</h1>
+        <h1 class="text-xl font-medium mb-10 text-center md:text-left">Contact Us</h1>
 
-        <div class="space-y-4 mb-10 text-gray-600">
+        <div class="text-center md:text-left space-y-4 mb-10">
             <p>
                 <strong>Address:</strong><br />
                 Imperial Terraces,<br />
