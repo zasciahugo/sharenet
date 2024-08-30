@@ -1,5 +1,4 @@
 # Sharenet - Vue.js SPA Project
-===============================
 
 This project is a responsive Vue.js Single Page Application (SPA) named "Sharenet." It features three main pages, each with distinct functionality:
 
