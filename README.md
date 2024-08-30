@@ -19,7 +19,6 @@ This project is a responsive Vue.js Single Page Application (SPA) named "Sharene
   - Time
 - **Features**:
   - Sortable table columns.
-  - Data passed as props to components.
   - Mobile responsiveness.
 - **Navigation**:
   - Menu with links to the Contact Us Page (Page 2) and Venues and Workshops Page (Page 3).
